@@ -1,4 +1,4 @@
-#Actividad-2-POO
+#Actividad-2-POO//
 #PROGRAMACIÓN ORIENTADA A OBJETOS
 #Actividad 2
 #Facultad de Minas
