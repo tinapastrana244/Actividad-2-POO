@@ -1,11 +1,17 @@
-#Actividad-2-POO//
-#PROGRAMACIÓN ORIENTADA A OBJETOS
-#Actividad 2
-#Facultad de Minas
-#Universidad Nacional de Colombia – Sede Medellín
-#Estudiante:
-#Valentina Pastrana Fajardo
-#Docente:
-#Walter Hugo Arboleda Mazo
-#Medellín, Antioquia
-#8 de Octubre de 2026
+# Actividad 2 - POO
+
+## PROGRAMACIÓN ORIENTADA A OBJETOS
+
+**Facultad de Minas**
+**Universidad Nacional de Colombia – Sede Medellín**
+
+---
+
+**Estudiante:**
+Valentina Pastrana Fajardo
+
+**Docente:**
+Walter Hugo Arboleda Mazo
+
+**Lugar:** Medellín, Antioquia
+**Fecha:** 8 de octubre de 2026
